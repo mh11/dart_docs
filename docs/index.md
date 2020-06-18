@@ -22,7 +22,7 @@ Starting with an annotated VCF file, DART supports the user by providing
 DART rivals commercial variant annotation software in terms of features and user-friendliness, and – as an open source software with no strings attached – it puts the full control over genetic data back in the hands of the clinical laboratories that analyse the data. It thus avoids undue commercialization of genome data and facilitate responsible sharing. 
 
 ## Access
-A public test version is available on https://www.biomedical-sequencing.at/pub-dart/login 
+A public test version is available [Biomedical Sequencing Facility](https://www.biomedical-sequencing.at/pub-dart/login)
 For installation / configuration details, please see GITHUB.
 
 
