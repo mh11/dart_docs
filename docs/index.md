@@ -1,5 +1,7 @@
 
-# Finding the one in a million 
+# Diagnostic Analysis and Reporting Tool 
+
+## Finding the one in a million 
 Rare und undiagnosed diseases are often caused by genetic defects. Rapid identification of the causal mutation(s) provides a molecular diagnosis that can inform potentially invasive treatment decisions and reduces the need for lengthy (and often costly) testing. Genetic diagnoses are currently hampered by the large number of potential disease genes, by the high number of variants identified and by the complexity of variant annotation, which can lead to major delays in reaching a confident genetic diagnosis.
 
 ## Reporting variants
