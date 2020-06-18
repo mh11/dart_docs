@@ -1,0 +1,10 @@
+site_name: DART - Diagnostic Analysis and Reporting Tool 
+
+extra:
+    feature:
+        tabs: false
+pages:
+- Home: index.md
+- 'Guides':
+  - 'Overview': guide-01-overview.md
+- About: about.md
