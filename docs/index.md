@@ -7,7 +7,7 @@ Rare und undiagnosed diseases are often caused by genetic defects. Rapid identif
 ## Reporting variants
 DART is a user-friendly, non-commercial software tool that assists researchers and clinicians with the filtering and interpretation of genetic variants obtained by next generation sequencing (e.g. diagnostic panels, exome sequencing, or whole genome sequencing. DART facilitates confident genetic diagnoses in compliance with emerging community standards. Starting with an annotated VCF file, DART supports interactive filtering, implements ACMG- AMP classification, provides full audit history, and helps generate custom patient reports.
 
-# Going the extra mile 
+## Going the extra mile 
 Starting with an annotated VCF file, DART supports the user by providing
 
 - Sample focused analysis 
@@ -18,8 +18,12 @@ Starting with an annotated VCF file, DART supports the user by providing
 - Trio / relatedness variant representation
 - Support ACMG-AMP variant curation
 
-# Full control 
+## Full control 
 DART rivals commercial variant annotation software in terms of features and user-friendliness, and – as an open source software with no strings attached – it puts the full control over genetic data back in the hands of the clinical laboratories that analyse the data. It thus avoids undue commercialization of genome data and facilitate responsible sharing. 
+
+# Getting started
+
+Please have a look at the [Guide](guide-overview.md)
 
 ## Access
 A public test version is available [Biomedical Sequencing Facility](https://www.biomedical-sequencing.at/pub-dart/login)

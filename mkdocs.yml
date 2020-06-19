@@ -6,5 +6,8 @@ extra:
 pages:
 - Home: index.md
 - 'Guides':
-  - 'Overview': guide-01-overview.md
+  - 'Overview': guide-overview.md
+  - 'Query': guide-queries.md
+  - 'Report': guide-report.md
+  - 'Admin': guide-admin.md
 - About: about.md
