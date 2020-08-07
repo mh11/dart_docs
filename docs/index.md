@@ -1,8 +1,11 @@
 
 # Diagnostic Analysis and Reporting Tool 
 
+![Dart welcome](img/guide-welcome.png){: style="height:300px;width:500px"}
+
 ## Finding the one in a million 
 Rare und undiagnosed diseases are often caused by genetic defects. Rapid identification of the causal mutation(s) provides a molecular diagnosis that can inform potentially invasive treatment decisions and reduces the need for lengthy (and often costly) testing. Genetic diagnoses are currently hampered by the large number of potential disease genes, by the high number of variants identified and by the complexity of variant annotation, which can lead to major delays in reaching a confident genetic diagnosis.
+
 
 ## Reporting variants
 DART is a user-friendly, non-commercial software tool that assists researchers and clinicians with the filtering and interpretation of genetic variants obtained by next generation sequencing (e.g. diagnostic panels, exome sequencing, or whole genome sequencing. DART facilitates confident genetic diagnoses in compliance with emerging community standards. Starting with an annotated VCF file, DART supports interactive filtering, implements ACMG- AMP classification, provides full audit history, and helps generate custom patient reports.
