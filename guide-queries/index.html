@@ -98,6 +98,42 @@
             
             <li class="nav-item" data-level="1"><a href="#query-samples" class="nav-link">Query Samples</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#sample-selection" class="nav-link">Sample selection</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#virtual-gene-panel" class="nav-link">Virtual Gene Panel</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#standardised-filtering" class="nav-link">Standardised filtering</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#query-status" class="nav-link">Query status</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#query-result" class="nav-link">Query result</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#variant-details" class="nav-link">Variant details</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#disease-focus" class="nav-link">Disease focus</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#variant-curation" class="nav-link">Variant curation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#report-generation" class="nav-link">Report generation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -106,7 +142,41 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="query-samples">Query Samples</h1>
-<p>Query page</p></div>
+<p><strong>Queries</strong> allow the selection of <strong>sample or families</strong>, <strong>virtual gene</strong> panels (gene names or genomic relevant regions) and predefined <strong>standardised filters</strong>.</p>
+<p><img alt="Dart query" src="../img/guide-query_overview.png" /></p>
+<h2 id="sample-selection">Sample selection</h2>
+<p>An identifier is searched across all accessible variant files and can be further refined by the file name, date, sample type or reference genome.</p>
+<p><img alt="Dart Sample selection" src="../img/guide-query-sample-selection.png" /></p>
+<h2 id="virtual-gene-panel">Virtual Gene Panel</h2>
+<p>Disease specific panels can be pre-defined in DART to provide
+patient relevant analyses. Panels can be defined as HGNC gene 
+names or as genomic relevant regions. The use of panels can be 
+enforced to prevent secondary findings.</p>
+<p><img alt="Dart Virtual Gene Panel" src="../img/guide-query-virtual-panel.png" /></p>
+<h2 id="standardised-filtering">Standardised filtering</h2>
+<p>Disease specific filtering strategies can be prepared to allow for 
+different modes of inheritance (e.g. dominant, recessive) and 
+expected frequency in the population.</p>
+<p><img alt="Dart Standardised filtering" src="../img/guide-query-standardised-filtering.png" /></p>
+<h2 id="query-status">Query status</h2>
+<p><img alt="Dart Query status" src="../img/guide-query-status.png" /></p>
+<h2 id="query-result">Query result</h2>
+<p>Variants passing the filter criteria are displayed one per row and can be interactively explored (sorted, filtered, …).</p>
+<p><img alt="Dart Query result" src="../img/guide-query-result.png" /></p>
+<h2 id="variant-details">Variant details</h2>
+<p>Compact visual variant representation allows an efficient analysis of clinical relevance.</p>
+<p><img alt="Dart Variant details" src="../img/guide-query-details.png" /></p>
+<h2 id="disease-focus">Disease focus</h2>
+<p>Disease context specific analysis of a patient enables the clinical assessment of variants for the selected disease(s). Previous variant annotations are displayed and highlighted depending on the disease focus.</p>
+<p><img alt="Dart Disease focus" src="../img/guide-query-focus.png" /></p>
+<h2 id="variant-curation">Variant curation</h2>
+<p>DART supports the ACMG-AMP (link) annotation of variants in the disease context. Variant curations are stored at your institution in DART as a knowledge base and provided as guidance across samples and diseases.</p>
+<p><img alt="Dart Variant curation" src="../img/guide-query-curation.png" />
+<img alt="Dart Variant curated" src="../img/guide-query-curated.png" /></p>
+<h2 id="report-generation">Report generation</h2>
+<p>All query related information is included in the creation of a report. The query and returned variants are stored with the available annotations and curation information at the time.</p>
+<p><img alt="Dart Report generation" src="../img/guide-query-generate-report_02.png" /></p>
+<!-- ![Dart query](img/guide-query-generate-report.png){: style="height:100px;width:500px"} --></div>
             </div>
         </div>
 
