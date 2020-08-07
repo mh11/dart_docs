@@ -1,5 +1,7 @@
 site_name: DART - Diagnostic Analysis and Reporting Tool 
 
+markdown_extensions:
+  - attr_list
 extra:
     feature:
         tabs: false

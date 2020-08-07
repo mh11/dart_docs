@@ -10,12 +10,12 @@ DART provides fast access to current analyses, reports and administration (if pe
 
 ## Queries
 
-Something about queries - more details [here](guide-queries.md)
+More details about standardised filtering of variants can be found [here](guide-queries.md)
 
 ## Reports
 
-Something about reports - more details [here](guide-report.md)
+Creating, accessing and managing reports are describes [here](guide-report.md)
 
 ## Admin panel
 
-Something about the admin panel - more details [here](guide-admin.md)
+Learn about user, sample and virtual pannel management [here](guide-admin.md)
